@@ -27,18 +27,25 @@ The dataset contains 51,290 records of sales with the following key columns:
 - Peaks are found in the ranges **10–40** and **120–130**.
 - There are a few high-profit outliers.
 
+<img width="650" height="480" alt="profit_distribution" src="https://github.com/user-attachments/assets/a0bfaef2-c1d0-4c77-86a2-9905030daa30" />
+
 ### Profit by Device Type
+
 - Web and Mobile sales show different patterns:
   - Mobile sales are more evenly distributed.
   - Web sales have more extreme profit values.
 - Indicates **different purchasing behavior** depending on the device.
 
+<img width="650" height="480" alt="profit_by_device" src="https://github.com/user-attachments/assets/a276c874-6d24-49e2-89ce-b49cc1180a03" />
+
 ### Profit Trends Over Time
 - There is a **general increasing trend** in monthly profits.
 - Since April 2018, monthly profits exceed 250,000.
 - Seasonality is visible; peak profits occurred in **November 2018**.
+<img width="650" height="480" alt="profit_by_month" src="https://github.com/user-attachments/assets/8bdd15c8-6e1f-4855-9d56-d48246eabdc5" />
 
 ### Profit by Product Category
+
 - Most profitable category: **Fashion**
 - Least profitable category: **Electronics**
 
