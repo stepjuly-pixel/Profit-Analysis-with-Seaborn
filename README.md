@@ -49,9 +49,14 @@ The dataset contains 51,290 records of sales with the following key columns:
 - Most profitable category: **Fashion**
 - Least profitable category: **Electronics**
 
+<img width="550" height="480" alt="profit_by_category" src="https://github.com/user-attachments/assets/dc1997df-15e5-4f5c-bf5a-640c5d0af909" />
+
 ### Profit by Product Category & Gender
+
 - Men purchase more in **Auto & Accessories** and **Fashion**.
 - Some categories show similar profit patterns for both genders.
+
+<img width="650" height="480" alt="profit_by_category_gender" src="https://github.com/user-attachments/assets/ade32f6d-560a-40ac-8dd5-06dc4cdac1a1" />
 
 ## How to Run
 1. Clone this repository
