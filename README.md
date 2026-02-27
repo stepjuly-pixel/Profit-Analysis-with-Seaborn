@@ -68,8 +68,10 @@ pip install -r requirements.txt
 3. Open notebook.ipynb in Jupyter Notebook or Google Colab
 
 ## Project Structure
-
+```
 profit-analysis-with-seaborn/
+
 - Profit_Analysis_with_Seaborn.ipynb          
 - requirements.txt                           
 - README.md                                   
+```
